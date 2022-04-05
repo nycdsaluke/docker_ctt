@@ -10,7 +10,7 @@ The image can be built with
 
 Once done building, the coordinator can spin up a container with the command below:
 
-``docker run -d --rm -p <port>:8888 -v <full_path_volume>:/ctt_app/monitor/myvolume <image_name>``
+``docker run -d -p <port>:8888 -v <full_path_volume>:/ctt_app/monitor/myvolume <image_name>``
 
 This way the container will run behind the scene.
 
