@@ -10,7 +10,7 @@ RUN mkdir ./monitor
 RUN mkdir ./monitor/myvolume
 
 COPY ./program_template ./monitor/program_template
-COPY ./README ./monitor/README
+COPY ./README.md ./monitor/README.md
 
 WORKDIR monitor
 
