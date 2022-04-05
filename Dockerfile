@@ -9,7 +9,7 @@ RUN pip install -e ./pkg_ctt
 RUN mkdir ./monitor
 RUN mkdir ./monitor/myvolume
 
-COPY ./program_template ./monitor/program_template
+COPY ./program_template ./program_template
 COPY ./README.md ./monitor/README.md
 COPY ./create_program_folder.ipynb ./monitor/create_program_folder.ipynb
 
