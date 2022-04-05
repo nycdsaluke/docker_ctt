@@ -11,7 +11,7 @@ RUN mkdir ./monitor/myvolume
 
 COPY ./program_template ./program_template
 COPY ./README.md ./monitor/README.md
-COPY ./create_program_folder.ipynb ./monitor/create_program_folder.ipynb
+COPY ./initialize_program.ipynb ./monitor/initialize_program.ipynb
 
 WORKDIR monitor
 
