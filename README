@@ -1,0 +1,8 @@
+# README
+
+This is the README file
+
+
+docker run -d --rm -p <port>:8888 -v <full_path>:/ctt_app/monitor/myvolume testluke
+
+docker run -d --rm -p 8892:8888 -v /Users/lukelin/Desktop/test_docker:/ctt_app/monitor/myvolume testluke

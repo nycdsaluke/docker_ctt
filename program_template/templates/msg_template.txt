@@ -1,0 +1,9 @@
+Dear {mentor},<br>
+<br>
+The report for {student} this week (week {week}) is not submitted yet. Please go to 
+
+<a href="{form}", target="_blank">the Google Form</a> 
+
+to fill out the report. Please contact the program coordinator, {coordinator}, if you have any questions.<br>
+<br>
+Best,

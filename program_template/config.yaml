@@ -1,0 +1,17 @@
+mentor_student_sheet_id:
+mentor_sheet_id:
+
+coordinator:
+    name:
+    email:
+    cred_path: "coordinator_creds"
+    
+reminder_message:
+    template_path: "./templates/msg_template.txt"
+    
+report_tmplt:
+    css: "./templates/report2manager_template_css.html"
+    body: "./templates/report2manager_template_body.html"
+    
+report:
+    dir: "./reports"
